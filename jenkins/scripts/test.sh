@@ -12,6 +12,4 @@ set -x
 # npm install --save-dev cross-env
 set +x
 sleep 3
-echo 'application renders satisfactorily. This command actually invokes the test'
-set -x
-#npm test
+
